@@ -1,0 +1,9 @@
+# Ignore the data folder
+data/
+
+# Standard Python ignores
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+.env
+.venv
